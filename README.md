@@ -2,6 +2,7 @@
 
 #### 介绍
 AliUserId （支付宝小程序授权，获取支付宝用户id）
+
 ![2](https://scimence.gitee.io/AliUserId/files/AliUserId.png)
 
 --------------------------------------
