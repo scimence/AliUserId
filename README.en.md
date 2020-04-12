@@ -30,5 +30,4 @@ https://scimence.gitee.io/AliUserId/AliUserId.exe
 
 
 #### 示例核心源码
-https://scimence.gitee.io/AliUserId/files/C#获取支付宝用户id.zip
-
+https://scimence.gitee.io/AliUserId/files/Csharp获取支付宝用户id.zip
