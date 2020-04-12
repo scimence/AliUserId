@@ -1,0 +1,15 @@
+﻿服务器资源目录(https://gitee.com/scimence/AliUserId/raw/master/)
+本地资源目录(E:\SVN\workSpace\AliUserId\)
+
+待更新文件(
+
+AliTool.data(1904afe17e82cdfbc62e9093697f9139)
+AliUserId.data(15f3e6157eabdc240528b3595eeb72be)
+AliUserId.exe(273aeea65bcaa9c293034359b2ffd33e)
+README.en.md(8791d2531671f6a1d7929cb3dcf03292)
+README.md(8791d2531671f6a1d7929cb3dcf03292)
+files/AliUserId.png(44a903c35086288fa8720e4c8f8b4946)
+files/AliUserId_20200413_0241.7z.zip(02360575a970ffeb4b9704854c3a6a85)
+files/C#获取支付宝用户id.zip(0e442f0c5559d92cf644c8fd6fc81cd8)
+
+)待更新文件
